@@ -1,0 +1,3 @@
+//rootProject.name = "My Application1"
+rootProject.name = "Food Adviser"
+include ':app'

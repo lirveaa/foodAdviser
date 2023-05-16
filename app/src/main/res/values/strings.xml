@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Food Adviser</string>
+    <string name="find_food">Find Food!</string>
+    <string name="brands"></string>
+
+    <string-array name="food_names">
+        <item>Korean food</item>
+        <item>Japanese food</item>
+        <item>Uzbek food</item>
+        <item>Turkish food</item>
+    </string-array>
+</resources>
